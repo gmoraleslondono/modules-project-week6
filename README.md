@@ -22,3 +22,6 @@ npm install
 ```
 ts-node main.ts
 ```
+
+## Tutorial link
+- Vite and Express: https://www.youtube.com/watch?v=VSkWCl5DNLM
