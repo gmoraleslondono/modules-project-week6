@@ -25,3 +25,4 @@ ts-node main.ts
 
 ## Tutorial link
 - Vite and Express: https://www.youtube.com/watch?v=VSkWCl5DNLM
+-  Module System in Node: https://www.youtube.com/watch?v=lfPzynn3rSk&t=22s
